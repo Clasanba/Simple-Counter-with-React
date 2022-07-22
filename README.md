@@ -39,3 +39,14 @@ It takes just 2 minutes to deploy, [click here to start the process](https://git
 - Hot Deploy: Use of [Webpack Development Server](https://webpack.js.org/configuration/dev-server/) for hot deploy and live reload.
 - One-command publish of the code to github pages with `npm run deploy:github`.
 - Babel 7 (really fast).
+
+######################################################
+MI TRABAJO
+
+Código para crear un contador de dos formas diferentes:
+
+1) En SecondsCounter.jsx está la forma que se vio en clase y SecondsCounterV2.jsx la alternativa.
+2) Dentro de index.js, la función setInterval contiene dos funciones ReactDOM.render, una por cada contador. 
+3) En template.html se ha añadido  id="app2" para el segundo contador y el contenido que aparece en la web.
+4) Para dar estilo a la página se ha utilizado index.css y clases de bootstrap.
+
